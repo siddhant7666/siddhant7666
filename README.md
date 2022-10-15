@@ -9,7 +9,7 @@ I am currently pursuing my undergad in 2nd year of University. I am a web develo
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [noob CODER website](http://h)
 * ✉️  You can contact me at [dearsidd2017@gmail.com](mailto:dearsidd2017@gmail.com)
-* 🚀  I'm currently working on [Government of India tech problem statements](http://h)
+* 🚀  I'm currently working on [Government of India tech problem statements](https://sih.gov.in/sih2022PS)
 * 🧠  I'm learning Web3.0
 * 🤝  I'm open to collaborating on Full stack projects, Web designing.
 * ⚡  I'm a noob coder who loves problem solving.
