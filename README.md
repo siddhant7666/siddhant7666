@@ -6,7 +6,7 @@ Web Developer and Designer | Web3.0 | ML/AI
 
 I am currently pursuing my undergad in Information Technology in 2nd year of University. I am a web developer skilled with all recent technologies including HTML,CSS, JS, BOOTSTRAP, REACT, TAILWIND CSS, NODE.JS, EXPRESS.JS, MONGODB. Recently I have been learning and exploring about Web3.0, blockchain, ML, AI.
 
-* 🌍  I'm based in New Delhi, India
+* 🌍  I'm based in New Delhi, India.
 * 🖥️  See my portfolio at [noob CODER website](http://h)
 * ✉️  You can contact me at [dearsidd2017@gmail.com](mailto:dearsidd2017@gmail.com)
 * 🚀  I'm currently working on [Government of India tech problem statements](https://sih.gov.in/sih2022PS)
