@@ -4,15 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer | Web3.0 | ML/AI
 -------------------------------------------
 
-I am currently pursuing my undergad in Information Technology in 2nd year of University. I am a web developer skilled with all recent technologies including HTML,CSS, JS, BOOTSTRAP, REACT, TAILWIND CSS, NODE.JS, EXPRESS.JS, MONGODB. Recently I have been learning and exploring about Web3.0, blockchain, ML, AI.
+I am currently pursuing my undergad in Information Technology in final year of University. I am a web developer skilled with all recent technologies including HTML,CSS, JS, BOOTSTRAP, REACT, TAILWIND CSS, SQL. Recently I have been learning and exploring about Web3.0, blockchain, ML, AI.
 
 * 🌍  I'm based in New Delhi, India.
-* 🖥️  See my portfolio at [noob CODER website](http://h)
+* 🖥️  See my portfolio at [Website](https://siddhant7666.github.io/Portfolio/)
 * ✉️  You can contact me at [dearsidd2017@gmail.com](mailto:dearsidd2017@gmail.com)
-* 🚀  I'm currently working on [Government of India tech problem statements](https://sih.gov.in/sih2022PS)
 * 🧠  I'm learning Web3.0
 * 🤝  I'm open to collaborating on Full stack projects, Web designing.
-* ⚡  I'm a noob coder who loves problem solving.
+
 
 ### Skills
 
